@@ -1,0 +1,11 @@
+C:\VS_WorkSpace\App12\App12\App12\bin\Debug\netstandard2.0\App12.deps.json
+C:\VS_WorkSpace\App12\App12\App12\bin\Debug\netstandard2.0\App12.dll
+C:\VS_WorkSpace\App12\App12\App12\bin\Debug\netstandard2.0\App12.pdb
+C:\VS_WorkSpace\App12\App12\App12\obj\Debug\netstandard2.0\App12.csprojResolveAssemblyReference.cache
+C:\VS_WorkSpace\App12\App12\App12\obj\Debug\netstandard2.0\App12.csproj.CoreCompileInputs.cache
+C:\VS_WorkSpace\App12\App12\App12\obj\Debug\netstandard2.0\App12.App.xaml.g.cs
+C:\VS_WorkSpace\App12\App12\App12\obj\Debug\netstandard2.0\App12.MainPage.xaml.g.cs
+C:\VS_WorkSpace\App12\App12\App12\obj\Debug\netstandard2.0\App12.AssemblyInfoInputs.cache
+C:\VS_WorkSpace\App12\App12\App12\obj\Debug\netstandard2.0\App12.AssemblyInfo.cs
+C:\VS_WorkSpace\App12\App12\App12\obj\Debug\netstandard2.0\App12.dll
+C:\VS_WorkSpace\App12\App12\App12\obj\Debug\netstandard2.0\App12.pdb
